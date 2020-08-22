@@ -29,7 +29,7 @@ public class SearchWeatherCurrentLocation {
     //belong to android volley
     private static final String  CURRENT_WEATHER_TAG="CURRENT_WEATHER";
     //Put your API KEY
-    private static final String API_KEY="c9476d2242da55eb96ec06f9cba4784d";
+    private static final String API_KEY="Place Your API KEY here";
 
     private RequestQueue queue;
 
